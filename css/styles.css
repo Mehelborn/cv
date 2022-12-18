@@ -1,0 +1,23 @@
+#para1{
+  font-family: monospace;
+}
+
+body {
+  background-color: #7DE5ED;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 4px;
+  border-color: #81C6E8;
+  height: 0;
+  width: 5%;
+}
+
+h1 {
+  color: #5C2E7E;
+}
+
+h3 {
+  color: #5837D0;
+}
